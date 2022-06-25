@@ -48,9 +48,7 @@ const index = 1
 console.log(languages[index])
 
 // a) Your answer: "Ruby"
-// b) Verify and explain: Indexs always start with 0, [] contain arrays each element in the array are defined in "" and are counted as a valus
-
-
+// b) Verify and explain: Indexs always start with 0, [] contain strings as each element and 'ruby" would be the answer
 // --------------------4) What will this log?
 
 const weekendDays = ["saturday", "sunday"]
